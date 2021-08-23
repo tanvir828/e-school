@@ -1,0 +1,325 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+header{
+    background-color: #F0FFF0;
+    min-height: 100vh;
+}
+.navbar-brand{
+    width: 16%;
+}
+.nav-item{
+    
+margin-left: 10px;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #000000;
+    line-height: 24px;
+    font-size: 16px;
+    font-weight: 400;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+    color: #56548c;
+}
+.btn-custom{
+    
+padding: 0;
+    
+background: #21B573;
+    
+padding: 7px 20px;
+    
+border-radius: 20px;
+    
+color: #fff;
+    
+margin-left: 5px;
+}
+.btn-custom:hover{
+    color: #fff;
+    background:#0f5a38 ;
+}
+.header_content{
+
+padding-top: 80px;
+}
+.header_content h3{
+    
+color: #FD511A;
+    
+font-size: 16px;
+    
+font-weight: 400;
+    
+line-height: 24px;
+}
+.header_content h1{
+    
+font-size: 48px;
+    
+font-weight: bold;
+    
+line-height: 70px;
+    
+color:  #000000;
+}
+.header_content span{
+    
+color: #21b573;
+}
+.header_content p{
+    
+font-weight: 400;
+    
+color: #6C6B6B;
+    
+font-size: 16px;
+    
+line-height: 36px;
+}
+.btn-started{
+    
+color: #fff;
+    
+background: #21b573;
+    
+padding: 0;
+    
+padding: 10px 25px;
+    
+border: 1px solid #000000;
+    
+box-sizing: border-box;
+    
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    
+border-radius: 33px;
+}
+.btn-started:hover{
+    color: #fff;
+    background: #208156ed;
+}
+.features_section{
+
+}
+.feature_content{
+    /* box-shadow: 20px 20px 40px rgb(0 0 0 / 15%); */
+    background: #F8FFFB;
+    text-align: center;
+    padding: 30px 0;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+.feature_content img{
+    
+width: 25%;
+    
+margin-bottom: 10px;
+    
+margin-bottom: 10px;
+}
+.feature_content h2{
+    
+color: #413960;
+    
+font-size: 24px;
+    
+line-height: 36px;
+    
+font-weight: 500;
+}
+.feature_content p{
+    
+color: #585859;
+    
+font-size: 16px;
+    
+font-weight: 400;
+    
+line-height: 24px;
+}
+.feature_content:hover{
+    background: #FFFFFF;
+    box-shadow: 10px 15px 25px rgb(0 0 0 / 15%);
+    border-radius: 10px;
+}
+.courses{
+
+padding: 20px;
+
+background: #FFFFFF
+
+box-shadow: 20px 20px 40px rgb(0 0 0 / 15%);
+
+border-radius: 18px;
+}
+.courses:hover{
+    background:#eee9e9;
+
+}
+.courses h2{
+    
+color: #413960;
+    
+font-size: 24px;
+    
+font-weight: 500;
+    
+line-height: 36px;
+    
+margin: 0;
+}
+.courses h6{
+    
+color: #585859;
+    
+font-size: 16px;
+    
+font-weight: 400;
+    
+line-height: 24px;
+    
+margin: 0;
+}
+.courses img{
+    
+margin-bottom: 15px;
+}
+.courses .btn-courses{
+    
+font-size: 16px;
+    
+font-weight: 400;
+    
+line-height: 19px;
+    
+color: #fff;
+    
+background: #21b573;
+    
+padding: 7px 20px;
+    
+border-radius: 25px;
+    
+margin: 15px 0;
+}
+.courses ul{
+    
+list-style: none;
+    
+margin: 0;
+    
+padding: 0;
+    
+display: flex;
+    
+justify-content: space-between;
+}
+.courses ul li{
+    
+color: #585859;
+    
+line-height: 24px;
+    
+font-size: 16px;
+    
+font-weight: 500;
+}
+.courses ul li i{
+    
+margin-right: 5px;
+}
+.testimonial_section{
+
+padding: 60px 0;
+}
+.testimonial_section h1{
+    
+color: #000000;
+    
+font-size: 36px;
+    
+font-weight: bold;
+    
+line-height: 54px;
+    
+margin-bottom: 30px;
+}
+.testimonial_section img{
+    
+width: 85%;
+}
+.testimonial_section p{color:  #000000;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-top: 10px;}
+footer{
+
+background: #282531;
+
+padding-top: 60px;
+}
+footer p{
+
+color:  #FFFFFF;
+
+font-size: 16px;
+
+font-weight: 400;
+
+line-height: 30px;
+}
+footer h3{
+
+font-weight: bold;
+
+font-size: 18px;
+
+line-height: 30px;
+
+color: #fff;
+
+margin: 0;
+}
+footer ul{
+
+list-style: none;
+
+padding: 0;
+
+margin: 0;
+}
+footer ul li{
+
+}
+footer ul li a{
+
+text-decoration: none;
+
+font-weight: 400;
+
+line-height: 30px;
+
+color: #fff;
+}
+footer h6{
+    
+color: #CDCDCD;
+    
+font-size: 16px;
+    
+line-height: 30px;
+    
+font-weight: 400;
+    
+/* margin-top: 20px; */
+    
+padding-top: 50px;
+    
+padding-bottom: 20px;
+}
